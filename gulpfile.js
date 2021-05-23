@@ -14,7 +14,7 @@ function cssTask(cb) {
 
 // Task for minifying images
 function imageminTask(cb) {
-	return src("./dist/img/*")
+	return src("./src/img/*")
 		.pipe(imagemin())
 		.pipe(dest("./dist/img"));
 	cb();
