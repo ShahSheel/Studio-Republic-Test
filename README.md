@@ -1,7 +1,7 @@
 # Studio-Republic-Test
 
 ## Time Taken
- 1 day and 3 hours
+ 17 hours
 
 ## Prerequisites (Ie needed to learn Tailwind, Flexbox, grids)
 
